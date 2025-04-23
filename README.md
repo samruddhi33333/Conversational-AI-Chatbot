@@ -15,8 +15,7 @@ Clean chat interface using Gradio
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/samruddhi33333/Conversational-AI-Chatbot
 2. Create a Virtual Environment and Activate It
 bash
 Copy
