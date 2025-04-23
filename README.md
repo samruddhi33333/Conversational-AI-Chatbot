@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🤖 Conversational AI Chatbot
 A simple chatbot app using FastAPI as the backend and Gradio as the frontend interface. You can interact with different LLMs like OpenAI, Anthropic, and Gemini.
 
@@ -48,3 +49,7 @@ anthropic
 gemini
 
 Each has custom logic to simulate real chatbot responses.
+=======
+# Conversational-AI-Chatbot
+A lightweight and intuitive chatbot built using FastAPI and Gradio, allowing users to interact with multiple simulated large language models (LLMs) like OpenAI, Anthropic, and Gemini. The interface supports seamless model switching and delivers natural conversational responses — ideal for learning, prototyping, or showcasing AI interactions.
+>>>>>>> bcff475fb74e3e4dd67dad6aa218d1414604fd80
