@@ -1,6 +1,6 @@
 # 🤖 Conversational AI Chatbot
 
-A simple chatbot app using **FastAPI** as the backend and **Gradio** as the frontend interface. You can interact with different LLMs like **OpenAI**, **Anthropic**, and **Gemini**.
+A chatbot app using **FastAPI** as the backend and **Gradio** as the frontend interface. You can interact with different LLMs like **OpenAI**, **Anthropic**, and **Gemini**.
 
 ## 🚀 Features
 
