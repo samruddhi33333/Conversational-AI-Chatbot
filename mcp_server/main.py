@@ -22,7 +22,7 @@ async def generate_response(message: str, model: str) -> str:
     
     elif model == "anthropic":
         if "hi" in msg:
-            return "Hi there! How can I assist you?"
+            return "Hello! How can I help you?"
         elif "how are you" in msg:
             return "I'm functioning optimally, thank you for asking!"
         else:
